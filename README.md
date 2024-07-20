@@ -35,6 +35,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/dedeepya55/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/dedeepya55/Leetcode/tree/master/0009-palindrome-number) |
+| [1642-water-bottles](https://github.com/dedeepya55/Leetcode/tree/master/1642-water-bottles) |
 ## Linked List
 |  |
 | ------- |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dedeepya55/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/dedeepya55/Leetcode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
