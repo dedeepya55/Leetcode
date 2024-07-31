@@ -35,6 +35,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/dedeepya55/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/dedeepya55/Leetcode/tree/master/0009-palindrome-number) |
+| [1610-xor-operation-in-an-array](https://github.com/dedeepya55/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/dedeepya55/Leetcode/tree/master/1642-water-bottles) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepya55/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Linked List
@@ -97,6 +98,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1610-xor-operation-in-an-array](https://github.com/dedeepya55/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/dedeepya55/Leetcode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepya55/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dedeepya55/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
