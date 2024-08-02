@@ -78,6 +78,7 @@
 | [0141-linked-list-cycle](https://github.com/dedeepya55/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dedeepya55/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dedeepya55/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dedeepya55/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Stack
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [1839-decode-xored-array](https://github.com/dedeepya55/Leetcode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepya55/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dedeepya55/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dedeepya55/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Backtracking
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepya55/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/dedeepya55/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dedeepya55/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dedeepya55/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Combinatorics
 |  |
 | ------- |
