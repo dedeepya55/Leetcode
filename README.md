@@ -88,6 +88,7 @@
 | ------- |
 | [0861-flipping-an-image](https://github.com/dedeepya55/Leetcode/tree/master/0861-flipping-an-image) |
 | [1642-water-bottles](https://github.com/dedeepya55/Leetcode/tree/master/1642-water-bottles) |
+| [2048-build-array-from-permutation](https://github.com/dedeepya55/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/dedeepya55/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Array
 |  |
@@ -96,6 +97,7 @@
 | [0861-flipping-an-image](https://github.com/dedeepya55/Leetcode/tree/master/0861-flipping-an-image) |
 | [1839-decode-xored-array](https://github.com/dedeepya55/Leetcode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepya55/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/dedeepya55/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/dedeepya55/Leetcode/tree/master/2058-concatenation-of-array) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dedeepya55/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dedeepya55/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
