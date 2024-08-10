@@ -82,6 +82,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/dedeepya55/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dedeepya55/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/dedeepya55/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/dedeepya55/Leetcode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/dedeepya55/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/dedeepya55/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2502-sort-the-people](https://github.com/dedeepya55/Leetcode/tree/master/2502-sort-the-people) |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/dedeepya55/Leetcode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/dedeepya55/Leetcode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/dedeepya55/Leetcode/tree/master/0782-jewels-and-stones) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dedeepya55/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/dedeepya55/Leetcode/tree/master/2502-sort-the-people) |
@@ -180,6 +182,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/dedeepya55/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/dedeepya55/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/dedeepya55/Leetcode/tree/master/0242-valid-anagram) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/dedeepya55/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dedeepya55/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/dedeepya55/Leetcode/tree/master/2502-sort-the-people) |
