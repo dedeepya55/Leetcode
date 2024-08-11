@@ -67,6 +67,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/dedeepya55/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0861-flipping-an-image](https://github.com/dedeepya55/Leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/dedeepya55/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepya55/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dedeepya55/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/dedeepya55/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2502-sort-the-people](https://github.com/dedeepya55/Leetcode/tree/master/2502-sort-the-people) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepya55/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dedeepya55/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/dedeepya55/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dedeepya55/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -190,4 +192,9 @@
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/dedeepya55/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dedeepya55/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/dedeepya55/Leetcode/tree/master/2502-sort-the-people) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepya55/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Binary Search
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepya55/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
