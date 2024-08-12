@@ -1,31 +1,40 @@
 class Solution {
     public String decodeMessage(String key, String message) {
-        Map<Character,Character> r=new HashMap<>();
-        List<Character> l=new ArrayList<>();
-        for(char i='a';i<='z';i++)
-        {
-            l.add(i);
-        }
-        int i=0;
-        for(char c:key.toCharArray()){
-            if(c!=' ' && !r.containsKey(c))
-            {
-                r.put(c,l.get(i));
-                i++;
+        Set<Character> s = new LinkedHashSet<>();
+        Character[] arr = new Character[message.length()];
+        List<Character> l1 = new ArrayList<>();
+        
+        for (int i = 0; i < key.length(); i++) {
+            if (key.charAt(i) != ' ') {
+                s.add(key.charAt(i));
             }
         }
-        int o=0;
-        char[] ar=new char[message.length()];
-        for(char c:message.toCharArray()){
-            if(c==' ')
-            {
-                ar[o]=' ';
+        
+        for (char ch = 'a';ch <= 'z'; ch++) {
+            l1.add(ch);
+        }
+        
+        int index;
+        List<Character> list = new ArrayList<>(s);
+        
+        for (int i = 0; i < message.length(); i++) {
+            index = list.indexOf(message.charAt(i));
+            if (index != -1) {
+                arr[i] = l1.get(index);
+            } else if(message.charAt(i)==' '){
+                arr[i] = message.charAt(i);
             }
             else{
-                ar[o]=r.get(c);
+                break;
             }
-            o++;
         }
-        return new String(ar);
+        
+        char[] charArray = new char[arr.length];
+        for (int i = 0; i < arr.length; i++) {  
+            charArray[i] = arr[i];
+        }
+        
+        String joinedString = new String(charArray);
+        return joinedString;
     }
 }
