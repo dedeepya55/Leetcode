@@ -21,11 +21,8 @@ class Solution {
             index = list.indexOf(message.charAt(i));
             if (index != -1) {
                 arr[i] = l1.get(index);
-            } else if(message.charAt(i)==' '){
+            } else{
                 arr[i] = message.charAt(i);
-            }
-            else{
-                break;
             }
         }
         
