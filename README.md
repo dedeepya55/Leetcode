@@ -71,6 +71,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/dedeepya55/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/dedeepya55/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/dedeepya55/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/dedeepya55/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepya55/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dedeepya55/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Recursion
@@ -188,6 +189,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/dedeepya55/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2406-decode-the-message](https://github.com/dedeepya55/Leetcode/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/dedeepya55/Leetcode/tree/master/2502-sort-the-people) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/dedeepya55/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3194-find-words-containing-character](https://github.com/dedeepya55/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3412-permutation-difference-between-two-strings](https://github.com/dedeepya55/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Counting
@@ -200,6 +202,7 @@
 | [0605-can-place-flowers](https://github.com/dedeepya55/Leetcode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/dedeepya55/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dedeepya55/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/dedeepya55/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Sorting
 |  |
 | ------- |
