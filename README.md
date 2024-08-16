@@ -114,6 +114,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dedeepya55/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/dedeepya55/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/dedeepya55/Leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/dedeepya55/Leetcode/tree/master/0217-contains-duplicate) |
 | [0605-can-place-flowers](https://github.com/dedeepya55/Leetcode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/dedeepya55/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -174,6 +175,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/dedeepya55/Leetcode/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/dedeepya55/Leetcode/tree/master/0338-counting-bits) |
 ## String
 |  |
@@ -218,4 +220,8 @@
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepya55/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/dedeepya55/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
