@@ -264,6 +264,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/dedeepya55/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/dedeepya55/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dedeepya55/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/dedeepya55/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -279,6 +280,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/dedeepya55/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/dedeepya55/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dedeepya55/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -295,6 +297,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/dedeepya55/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/dedeepya55/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dedeepya55/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/dedeepya55/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
