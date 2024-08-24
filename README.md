@@ -128,6 +128,7 @@
 | [0049-group-anagrams](https://github.com/dedeepya55/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/dedeepya55/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0217-contains-duplicate](https://github.com/dedeepya55/Leetcode/tree/master/0217-contains-duplicate) |
 | [0605-can-place-flowers](https://github.com/dedeepya55/Leetcode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/dedeepya55/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -246,6 +247,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/dedeepya55/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -256,6 +258,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -289,6 +292,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -304,6 +308,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/dedeepya55/Leetcode/tree/master/0975-range-sum-of-bst) |
