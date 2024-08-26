@@ -163,6 +163,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/dedeepya55/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/dedeepya55/Leetcode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/dedeepya55/Leetcode/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/dedeepya55/Leetcode/tree/master/0861-flipping-an-image) |
@@ -240,6 +241,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/dedeepya55/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0633-sum-of-square-numbers](https://github.com/dedeepya55/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepya55/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
@@ -261,6 +263,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/dedeepya55/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dedeepya55/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -299,6 +302,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/dedeepya55/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dedeepya55/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
