@@ -25,11 +25,18 @@ class Solution {
     public boolean findTarget(TreeNode root, int k) {
         List<Integer> l=new ArrayList<>();
         tree(root,l);
-        for(int i=0;i<l.size();i++){
-            for(int j=i+1;j<l.size();j++){
-                if(l.get(i)+l.get(j)==k){
-                    return true;
-                }
+        Collections.sort(l);
+        int i=0,j=l.size()-1;
+        while(i<j)
+        {
+            if(l.get(i)+l.get(j)==k){
+                return true;
+            }
+            else if(l.get(i)+l.get(j)>k){
+                j=j-1;
+            }
+            else{
+                i=i+1;
             }
         }
         return false;
