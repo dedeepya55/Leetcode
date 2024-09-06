@@ -59,6 +59,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/dedeepya55/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/dedeepya55/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/dedeepya55/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dedeepya55/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [2502-sort-the-people](https://github.com/dedeepya55/Leetcode/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/dedeepya55/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dedeepya55/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dedeepya55/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dedeepya55/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dedeepya55/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dedeepya55/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dedeepya55/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
 | ------- |
