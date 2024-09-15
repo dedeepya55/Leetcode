@@ -1,35 +1,25 @@
-class Solution {
+public class Solution {
     public int findTheLongestSubstring(String s) {
-        HashMap<String, Integer> indexes = new HashMap<>();
-    HashMap<Character, Integer> chars = new HashMap<>(){{  
-        put('a', 0);put('e', 1);
-        put('i', 2);put('o', 3);
-        put('u', 4);
-    }} ;
-    String evenOdd = "00000";
-    indexes.put(evenOdd , -1);
-    int length = 0;
-    for (int i = 0; i < s.length(); ++i) {
- 
-        char c = s.charAt(i);
-        boolean it = chars.containsKey(c);
-        if (it != false) {
-            if(evenOdd.charAt(chars.get(c)) == '0'){
-                evenOdd = evenOdd.substring(0,chars.get(c)) + '1' + evenOdd.substring(chars.get(c)+1);
+        int n = s.length();
+        int maxLen = 0;
+        int mask = 0;
+        Map<Integer, Integer> map = new HashMap<>();
+        map.put(0, -1);
+
+        for (int end = 0; end < n; end++) {
+            char c = s.charAt(end);
+            if (c == 'a') mask ^= 1;
+            if (c == 'e') mask ^= 2;
+            if (c == 'i') mask ^= 4;
+            if (c == 'o') mask ^= 8;
+            if (c == 'u') mask ^= 16;
+
+            if (map.containsKey(mask)) {
+                maxLen = Math.max(maxLen, end - map.get(mask));
+            } else {
+                map.put(mask, end);
             }
-            else{
-                evenOdd = evenOdd.substring(0,chars.get(c)) + '0' + evenOdd.substring(chars.get(c)+1);
-            }
         }
-        boolean lastIndex = indexes.containsKey(evenOdd);
- 
-        if (lastIndex == false) {
-            indexes.put(evenOdd, i);
-        }
-        else {
-            length = Math.max(length, i - indexes.get(evenOdd));
-        }
-    }
-     return length;
+        return maxLen;
     }
 }
