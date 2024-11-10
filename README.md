@@ -239,6 +239,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/dedeepya55/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dedeepya55/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0782-jewels-and-stones](https://github.com/dedeepya55/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/dedeepya55/Leetcode/tree/master/0812-rotate-string) |
 | [0979-di-string-match](https://github.com/dedeepya55/Leetcode/tree/master/0979-di-string-match) |
 | [1205-defanging-an-ip-address](https://github.com/dedeepya55/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1797-goal-parser-interpretation](https://github.com/dedeepya55/Leetcode/tree/master/1797-goal-parser-interpretation) |
@@ -433,4 +434,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dedeepya55/Leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/dedeepya55/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
