@@ -157,6 +157,7 @@
 | [0027-remove-element](https://github.com/dedeepya55/Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/dedeepya55/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/dedeepya55/Leetcode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/dedeepya55/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/dedeepya55/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -196,11 +197,13 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/dedeepya55/Leetcode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/dedeepya55/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepya55/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/dedeepya55/Leetcode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/dedeepya55/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/dedeepya55/Leetcode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/dedeepya55/Leetcode/tree/master/0476-number-complement) |
