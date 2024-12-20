@@ -343,6 +343,7 @@
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dedeepya55/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/dedeepya55/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -369,6 +370,7 @@
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/dedeepya55/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dedeepya55/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -402,6 +404,7 @@
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dedeepya55/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/dedeepya55/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -429,6 +432,7 @@
 | [0799-minimum-distance-between-bst-nodes](https://github.com/dedeepya55/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dedeepya55/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Design
 |  |
 | ------- |
