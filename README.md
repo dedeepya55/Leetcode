@@ -71,6 +71,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/dedeepya55/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dedeepya55/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dedeepya55/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dedeepya55/Leetcode/tree/master/0027-remove-element) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dedeepya55/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/dedeepya55/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dedeepya55/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dedeepya55/Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/dedeepya55/Leetcode/tree/master/0049-group-anagrams) |
@@ -307,6 +309,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/dedeepya55/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/dedeepya55/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/dedeepya55/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/dedeepya55/Leetcode/tree/master/0217-contains-duplicate) |
