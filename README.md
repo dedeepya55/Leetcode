@@ -36,6 +36,7 @@
 | [0002-add-two-numbers](https://github.com/dedeepya55/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/dedeepya55/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/dedeepya55/Leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/dedeepya55/Leetcode/tree/master/0043-multiply-strings) |
 | [0096-unique-binary-search-trees](https://github.com/dedeepya55/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/dedeepya55/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dedeepya55/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -142,6 +143,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/dedeepya55/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dedeepya55/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dedeepya55/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -269,6 +271,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/dedeepya55/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/dedeepya55/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/dedeepya55/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/dedeepya55/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/dedeepya55/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/dedeepya55/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/dedeepya55/Leetcode/tree/master/0125-valid-palindrome) |
