@@ -37,6 +37,7 @@
 | [0009-palindrome-number](https://github.com/dedeepya55/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/dedeepya55/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/dedeepya55/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/dedeepya55/Leetcode/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/dedeepya55/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/dedeepya55/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dedeepya55/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -170,6 +171,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dedeepya55/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dedeepya55/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/dedeepya55/Leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/dedeepya55/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dedeepya55/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/dedeepya55/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0054-spiral-matrix) |
@@ -260,6 +262,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/dedeepya55/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dedeepya55/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/dedeepya55/Leetcode/tree/master/0073-set-matrix-zeroes) |
