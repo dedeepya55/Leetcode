@@ -178,6 +178,7 @@
 | [0049-group-anagrams](https://github.com/dedeepya55/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/dedeepya55/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/dedeepya55/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/dedeepya55/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/dedeepya55/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/dedeepya55/Leetcode/tree/master/0075-sort-colors) |
@@ -284,6 +285,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dedeepya55/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/dedeepya55/Leetcode/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/dedeepya55/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/dedeepya55/Leetcode/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/dedeepya55/Leetcode/tree/master/0338-counting-bits) |
@@ -331,6 +333,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/dedeepya55/Leetcode/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/dedeepya55/Leetcode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/dedeepya55/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0979-di-string-match](https://github.com/dedeepya55/Leetcode/tree/master/0979-di-string-match) |
