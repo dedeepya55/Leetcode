@@ -199,6 +199,7 @@
 | [0907-koko-eating-bananas](https://github.com/dedeepya55/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0979-di-string-match](https://github.com/dedeepya55/Leetcode/tree/master/0979-di-string-match) |
 | [1127-last-stone-weight](https://github.com/dedeepya55/Leetcode/tree/master/1127-last-stone-weight) |
+| [1524-string-matching-in-an-array](https://github.com/dedeepya55/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/dedeepya55/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1539-diagonal-traverse-ii](https://github.com/dedeepya55/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dedeepya55/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -309,6 +310,7 @@
 | [0812-rotate-string](https://github.com/dedeepya55/Leetcode/tree/master/0812-rotate-string) |
 | [0979-di-string-match](https://github.com/dedeepya55/Leetcode/tree/master/0979-di-string-match) |
 | [1205-defanging-an-ip-address](https://github.com/dedeepya55/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1524-string-matching-in-an-array](https://github.com/dedeepya55/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/dedeepya55/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1797-goal-parser-interpretation](https://github.com/dedeepya55/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/dedeepya55/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -549,4 +551,5 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/dedeepya55/Leetcode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/dedeepya55/Leetcode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
