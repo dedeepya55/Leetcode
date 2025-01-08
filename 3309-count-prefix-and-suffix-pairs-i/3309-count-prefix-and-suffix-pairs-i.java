@@ -16,7 +16,6 @@ class Solution {
                 power = (power * BASE) % MOD;
             }
         } else {
-            // Compute suffix hashes
             for (int i = word.length() - 1; i >= 0; i--) {
                 hash = (hash + (word.charAt(i) - 'a' + 1) * power) % MOD;
                 System.out.println(hash);
@@ -35,7 +34,6 @@ class Solution {
                 power = (power * BASE) % MOD;
             }
         } else {
-            // Compute suffix hashes
             for (int i = word.length() - 1; i >= 0; i--) {
                 hash = (hash + (word.charAt(i) - 'a' + 1) * power) % MOD;
                 power = (power * BASE) % MOD; 
@@ -58,13 +56,8 @@ class Solution {
         int count = 0;
         for (int i = 0; i < words.length; i++) {
             for (int j = i + 1; j < words.length; j++) {
-                // long targetHashPrefix = computeHashes(words[i], true).iterator().next(); 
-                // long targetHashSuffix = computeHashes(words[i], false).iterator().next();
                 long targetHashPrefix=compute(words[i],true);
                 long targetHashSuffix=compute(words[i],false);
-                System.out.println(targetHashPrefix);
-                System.out.println(targetHashSuffix);
-                System.out.println("h99");
                 if (prefixHashes.get(j).contains(targetHashPrefix) && suffixHashes.get(j).contains(targetHashSuffix)) {
                     count++;
                 }
