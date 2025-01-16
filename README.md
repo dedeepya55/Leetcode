@@ -137,6 +137,7 @@
 | [2406-decode-the-message](https://github.com/dedeepya55/Leetcode/tree/master/2406-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/dedeepya55/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/dedeepya55/Leetcode/tree/master/2502-sort-the-people) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dedeepya55/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/dedeepya55/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dedeepya55/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/dedeepya55/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -236,6 +237,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/dedeepya55/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dedeepya55/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/dedeepya55/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dedeepya55/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepya55/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dedeepya55/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/dedeepya55/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -267,6 +269,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepya55/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dedeepya55/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/dedeepya55/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dedeepya55/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dedeepya55/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dedeepya55/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Combinatorics
