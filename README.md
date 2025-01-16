@@ -233,6 +233,7 @@
 | [2454-largest-local-values-in-a-matrix](https://github.com/dedeepya55/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2465-shifting-letters-ii](https://github.com/dedeepya55/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/dedeepya55/Leetcode/tree/master/2502-sort-the-people) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/dedeepya55/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/dedeepya55/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dedeepya55/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dedeepya55/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -269,6 +270,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepya55/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dedeepya55/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/dedeepya55/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/dedeepya55/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dedeepya55/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dedeepya55/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dedeepya55/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -585,4 +587,8 @@
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dedeepya55/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/dedeepya55/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/dedeepya55/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
