@@ -122,6 +122,7 @@
 | [0141-linked-list-cycle](https://github.com/dedeepya55/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dedeepya55/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dedeepya55/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/dedeepya55/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/dedeepya55/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/dedeepya55/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dedeepya55/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -195,6 +196,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/dedeepya55/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dedeepya55/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/dedeepya55/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dedeepya55/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/dedeepya55/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/dedeepya55/Leetcode/tree/master/0217-contains-duplicate) |
@@ -355,6 +357,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dedeepya55/Leetcode/tree/master/0169-majority-element) |
 | [1502-construct-k-palindrome-strings](https://github.com/dedeepya55/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/dedeepya55/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/dedeepya55/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -377,6 +380,7 @@
 | [0049-group-anagrams](https://github.com/dedeepya55/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/dedeepya55/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dedeepya55/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/dedeepya55/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dedeepya55/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dedeepya55/Leetcode/tree/master/0242-valid-anagram) |
 | [1539-diagonal-traverse-ii](https://github.com/dedeepya55/Leetcode/tree/master/1539-diagonal-traverse-ii) |
@@ -410,6 +414,7 @@
 | [0053-maximum-subarray](https://github.com/dedeepya55/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/dedeepya55/Leetcode/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
