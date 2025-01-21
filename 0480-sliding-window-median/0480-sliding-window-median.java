@@ -1,69 +1,86 @@
-import java.util.*;
-
 class Solution {
+    
+    private PriorityQueue<Integer> left;
+    private PriorityQueue<Integer> right;
+    private int leftRemoved;
+    private int rightRemoved;
+    private Map<Integer, Integer> removed;
+
     public double[] medianSlidingWindow(int[] nums, int k) {
-        TreeMap<Integer, Integer> left = new TreeMap<>();
-        TreeMap<Integer, Integer> right = new TreeMap<>();
-        int n = nums.length;
-        double[] result = new double[n - k + 1];
-        int leftSize = 0, rightSize = 0;
+        this.leftRemoved = 0;
+        this.rightRemoved = 0;
 
-        for (int i = 0; i < n; ++i) {
-            // Add the new number to the right heap
-            right.merge(nums[i], 1, Integer::sum);
+        this.left = new PriorityQueue<Integer>((a, b) -> Integer.compare(b, a));
+        this.right = new PriorityQueue<Integer>();
+        this.removed = new HashMap<>();
 
-            // Move the smallest element from right to left
-            int smallestInRight = right.firstKey();
-            moveElement(right, left, smallestInRight);
-            leftSize++;
+        double[] ms = new double[nums.length - k + 1];
+        int j = 0;
 
-            // Balance the sizes of the heaps
-            if (leftSize > rightSize + 1) {
-                int largestInLeft = left.lastKey();
-                moveElement(left, right, largestInLeft);
-                leftSize--;
-                rightSize++;
+        for (int i = 0; i < nums.length; ++i) {
+            if (i >= k) {
+                remove(nums[i - k]);
             }
+            
+            add(nums[i]);
 
-            // When the window size is reached
-            int j = i - k + 1;
-            if (j >= 0) {
-                // Calculate the median
-                if (k % 2 == 1) {
-                    result[j] = left.lastKey(); // Odd window size
-                } else {
-                    result[j] = ((double) left.lastKey() + right.firstKey()) / 2; // Even window size
-                }
-
-                // Remove the oldest element in the window
-                int oldest = nums[j];
-                if (left.containsKey(oldest)) {
-                    removeElement(left, oldest);
-                    leftSize--;
-                } else {
-                    removeElement(right, oldest);
-                    rightSize--;
-                }
+            if (i >= k - 1) {
+                ms[j++] = median();
             }
         }
 
-        return result;
+        return ms;
     }
 
-    // Move an element from one map to another
-    private void moveElement(TreeMap<Integer, Integer> from, TreeMap<Integer, Integer> to, int value) {
-        from.merge(value, -1, Integer::sum);
-        if (from.get(value) == 0) {
-            from.remove(value);
+    void add(int n) {
+        if (left.isEmpty() || n < left.peek()) {
+            left.offer(n);
+
+            if (left.size() - leftRemoved - (right.size() - rightRemoved) > 1) {
+                right.offer(left.poll());
+            }
+        } else {
+            right.offer(n);
+
+            if (right.size() - rightRemoved > left.size() - leftRemoved) {
+                left.offer(right.poll());
+            }
         }
-        to.merge(value, 1, Integer::sum);
     }
 
-    // Remove an element from a map
-    private void removeElement(TreeMap<Integer, Integer> map, int value) {
-        map.merge(value, -1, Integer::sum);
-        if (map.get(value) == 0) {
-            map.remove(value);
+    double median() {
+        removeInvalidPeeks(true);
+        removeInvalidPeeks(false);
+
+        if (left.size() - leftRemoved > right.size() - rightRemoved) {
+            return left.peek();
+        }
+        return ((long)left.peek() + (long)right.peek())/2.0;
+    }
+
+    void removeInvalidPeeks(boolean left) {
+        PriorityQueue<Integer> q = left ? this.left : this.right;
+        while (removed.containsKey(q.peek())) {
+            int n = q.poll();
+            removed.put(n, removed.get(n) - 1);
+            if (removed.get(n) == 0) {
+                removed.remove(n);
+            }
+
+            if (left) {
+                leftRemoved--;
+            } else {
+                rightRemoved--;
+            }
+        }
+    }
+
+    void remove(int n) {
+        removed.put(n, removed.getOrDefault(n, 0) + 1);
+        if (n > left.peek()) {
+            rightRemoved++;
+        } else {
+            leftRemoved++;
         }
     }
 }
