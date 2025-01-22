@@ -233,6 +233,7 @@
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/dedeepya55/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1791-richest-customer-wealth](https://github.com/dedeepya55/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1839-decode-xored-array](https://github.com/dedeepya55/Leetcode/tree/master/1839-decode-xored-array) |
+| [1876-map-of-highest-peak](https://github.com/dedeepya55/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dedeepya55/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepya55/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dedeepya55/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -314,6 +315,7 @@
 | [0074-search-a-2d-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/dedeepya55/Leetcode/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/dedeepya55/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1876-map-of-highest-peak](https://github.com/dedeepya55/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/dedeepya55/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/dedeepya55/Leetcode/tree/master/2145-grid-game) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/dedeepya55/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -574,6 +576,7 @@
 | [0799-minimum-distance-between-bst-nodes](https://github.com/dedeepya55/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dedeepya55/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1876-map-of-highest-peak](https://github.com/dedeepya55/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Design
 |  |
