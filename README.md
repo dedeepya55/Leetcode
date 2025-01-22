@@ -149,6 +149,7 @@
 | [2502-sort-the-people](https://github.com/dedeepya55/Leetcode/tree/master/2502-sort-the-people) |
 | [2685-first-completely-painted-row-or-column](https://github.com/dedeepya55/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dedeepya55/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dedeepya55/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/dedeepya55/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dedeepya55/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/dedeepya55/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -267,6 +268,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepya55/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dedeepya55/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/dedeepya55/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dedeepya55/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3226-minimum-number-game](https://github.com/dedeepya55/Leetcode/tree/master/3226-minimum-number-game) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/dedeepya55/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dedeepya55/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -461,6 +463,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dedeepya55/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2211-k-radius-subarray-averages](https://github.com/dedeepya55/Leetcode/tree/master/2211-k-radius-subarray-averages) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dedeepya55/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dedeepya55/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Tree
 |  |
