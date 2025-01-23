@@ -225,6 +225,7 @@
 | [0979-di-string-match](https://github.com/dedeepya55/Leetcode/tree/master/0979-di-string-match) |
 | [1127-last-stone-weight](https://github.com/dedeepya55/Leetcode/tree/master/1127-last-stone-weight) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dedeepya55/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1396-count-servers-that-communicate](https://github.com/dedeepya55/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/dedeepya55/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/dedeepya55/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1539-diagonal-traverse-ii](https://github.com/dedeepya55/Leetcode/tree/master/1539-diagonal-traverse-ii) |
@@ -320,6 +321,7 @@
 | [0074-search-a-2d-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0542-01-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0542-01-matrix) |
 | [0861-flipping-an-image](https://github.com/dedeepya55/Leetcode/tree/master/0861-flipping-an-image) |
+| [1396-count-servers-that-communicate](https://github.com/dedeepya55/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1791-richest-customer-wealth](https://github.com/dedeepya55/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/dedeepya55/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/dedeepya55/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -389,6 +391,7 @@
 | [0169-majority-element](https://github.com/dedeepya55/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dedeepya55/Leetcode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1396-count-servers-that-communicate](https://github.com/dedeepya55/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/dedeepya55/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/dedeepya55/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/dedeepya55/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -523,6 +526,7 @@
 | [0975-range-sum-of-bst](https://github.com/dedeepya55/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/dedeepya55/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1396-count-servers-that-communicate](https://github.com/dedeepya55/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dedeepya55/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -587,6 +591,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dedeepya55/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/dedeepya55/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/dedeepya55/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dedeepya55/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1876-map-of-highest-peak](https://github.com/dedeepya55/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -650,4 +655,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/dedeepya55/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/dedeepya55/Leetcode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
