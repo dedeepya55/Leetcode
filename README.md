@@ -170,6 +170,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/dedeepya55/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0933-increasing-order-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0933-increasing-order-search-tree) |
+| [1078-remove-outermost-parentheses](https://github.com/dedeepya55/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/dedeepya55/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
@@ -371,6 +372,7 @@
 | [0812-rotate-string](https://github.com/dedeepya55/Leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/dedeepya55/Leetcode/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/dedeepya55/Leetcode/tree/master/0979-di-string-match) |
+| [1078-remove-outermost-parentheses](https://github.com/dedeepya55/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/dedeepya55/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1502-construct-k-palindrome-strings](https://github.com/dedeepya55/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/dedeepya55/Leetcode/tree/master/1524-string-matching-in-an-array) |
