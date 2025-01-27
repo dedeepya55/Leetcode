@@ -43,6 +43,7 @@
 | [0171-excel-sheet-column-number](https://github.com/dedeepya55/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/dedeepya55/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dedeepya55/Leetcode/tree/master/0202-happy-number) |
+| [0390-elimination-game](https://github.com/dedeepya55/Leetcode/tree/master/0390-elimination-game) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dedeepya55/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0633-sum-of-square-numbers](https://github.com/dedeepya55/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0910-nth-magical-number](https://github.com/dedeepya55/Leetcode/tree/master/0910-nth-magical-number) |
@@ -114,6 +115,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/dedeepya55/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dedeepya55/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/dedeepya55/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0390-elimination-game](https://github.com/dedeepya55/Leetcode/tree/master/0390-elimination-game) |
 ## Hash Table
 |  |
 | ------- |
