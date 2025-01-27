@@ -182,6 +182,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dedeepya55/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/dedeepya55/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dedeepya55/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2386-min-max-game](https://github.com/dedeepya55/Leetcode/tree/master/2386-min-max-game) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/dedeepya55/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dedeepya55/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/dedeepya55/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -258,6 +259,7 @@
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/dedeepya55/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/dedeepya55/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/dedeepya55/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2386-min-max-game](https://github.com/dedeepya55/Leetcode/tree/master/2386-min-max-game) |
 | [2442-number-of-arithmetic-triplets](https://github.com/dedeepya55/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/dedeepya55/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2465-shifting-letters-ii](https://github.com/dedeepya55/Leetcode/tree/master/2465-shifting-letters-ii) |
