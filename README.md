@@ -49,6 +49,7 @@
 | [0633-sum-of-square-numbers](https://github.com/dedeepya55/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0910-nth-magical-number](https://github.com/dedeepya55/Leetcode/tree/master/0910-nth-magical-number) |
 | [1086-divisor-game](https://github.com/dedeepya55/Leetcode/tree/master/1086-divisor-game) |
+| [1236-n-th-tribonacci-number](https://github.com/dedeepya55/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dedeepya55/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dedeepya55/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dedeepya55/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -362,6 +363,7 @@
 | [0542-01-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/dedeepya55/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1086-divisor-game](https://github.com/dedeepya55/Leetcode/tree/master/1086-divisor-game) |
+| [1236-n-th-tribonacci-number](https://github.com/dedeepya55/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dedeepya55/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## String
 |  |
@@ -718,6 +720,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dedeepya55/Leetcode/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/dedeepya55/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Game Theory
 |  |
 | ------- |
