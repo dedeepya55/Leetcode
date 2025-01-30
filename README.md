@@ -231,6 +231,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/dedeepya55/Leetcode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/dedeepya55/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0747-min-cost-climbing-stairs](https://github.com/dedeepya55/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0861-flipping-an-image](https://github.com/dedeepya55/Leetcode/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/dedeepya55/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/dedeepya55/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -357,6 +358,7 @@
 | [0338-counting-bits](https://github.com/dedeepya55/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0542-01-matrix) |
+| [0747-min-cost-climbing-stairs](https://github.com/dedeepya55/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## String
 |  |
 | ------- |
