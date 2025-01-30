@@ -48,6 +48,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/dedeepya55/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0633-sum-of-square-numbers](https://github.com/dedeepya55/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0910-nth-magical-number](https://github.com/dedeepya55/Leetcode/tree/master/0910-nth-magical-number) |
+| [1086-divisor-game](https://github.com/dedeepya55/Leetcode/tree/master/1086-divisor-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dedeepya55/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dedeepya55/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dedeepya55/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -359,6 +360,7 @@
 | [0392-is-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/dedeepya55/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1086-divisor-game](https://github.com/dedeepya55/Leetcode/tree/master/1086-divisor-game) |
 ## String
 |  |
 | ------- |
@@ -682,6 +684,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/dedeepya55/Leetcode/tree/master/1086-divisor-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/dedeepya55/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Union Find
 |  |
@@ -711,4 +714,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dedeepya55/Leetcode/tree/master/0070-climbing-stairs) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/dedeepya55/Leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
