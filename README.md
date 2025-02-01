@@ -725,4 +725,8 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/dedeepya55/Leetcode/tree/master/1086-divisor-game) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/dedeepya55/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
