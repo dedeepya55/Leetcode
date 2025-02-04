@@ -58,6 +58,7 @@
 | [1642-water-bottles](https://github.com/dedeepya55/Leetcode/tree/master/1642-water-bottles) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepya55/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dedeepya55/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dedeepya55/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Linked List
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/dedeepya55/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dedeepya55/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dedeepya55/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dedeepya55/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
 |  |
 | ------- |
@@ -414,6 +416,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/dedeepya55/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/dedeepya55/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/dedeepya55/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dedeepya55/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
 | ------- |
@@ -424,6 +427,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/dedeepya55/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/dedeepya55/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/dedeepya55/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dedeepya55/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Greedy
 |  |
 | ------- |
