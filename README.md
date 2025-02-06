@@ -230,6 +230,7 @@
 | [0217-contains-duplicate](https://github.com/dedeepya55/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dedeepya55/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/dedeepya55/Leetcode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/dedeepya55/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/dedeepya55/Leetcode/tree/master/0283-move-zeroes) |
 | [0403-frog-jump](https://github.com/dedeepya55/Leetcode/tree/master/0403-frog-jump) |
 | [0480-sliding-window-median](https://github.com/dedeepya55/Leetcode/tree/master/0480-sliding-window-median) |
@@ -459,6 +460,7 @@
 | [0217-contains-duplicate](https://github.com/dedeepya55/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/dedeepya55/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/dedeepya55/Leetcode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/dedeepya55/Leetcode/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1539-diagonal-traverse-ii](https://github.com/dedeepya55/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dedeepya55/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -740,4 +742,8 @@
 | ------- |
 | [0584-find-customer-referee](https://github.com/dedeepya55/Leetcode/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/dedeepya55/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/dedeepya55/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
