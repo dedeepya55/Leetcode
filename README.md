@@ -86,6 +86,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dedeepya55/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dedeepya55/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/dedeepya55/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/dedeepya55/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dedeepya55/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dedeepya55/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/dedeepya55/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -170,6 +171,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dedeepya55/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/dedeepya55/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -206,6 +208,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dedeepya55/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dedeepya55/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/dedeepya55/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/dedeepya55/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dedeepya55/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/dedeepya55/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dedeepya55/Leetcode/tree/master/0049-group-anagrams) |
@@ -361,6 +364,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dedeepya55/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dedeepya55/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/dedeepya55/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dedeepya55/Leetcode/tree/master/0055-jump-game) |
@@ -753,4 +757,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/dedeepya55/Leetcode/tree/master/0274-h-index) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dedeepya55/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
