@@ -28,7 +28,7 @@ class Solution {
                 board[i][j]=0;
             }
             else if(board[i][j]==-1){
-                System.out.println(board[i][j]);
+                // System.out.println(board[i][j]);
                 board[i][j]=1;
             }
         }
