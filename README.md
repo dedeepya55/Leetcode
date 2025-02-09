@@ -134,6 +134,7 @@
 | [0049-group-anagrams](https://github.com/dedeepya55/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dedeepya55/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/dedeepya55/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/dedeepya55/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dedeepya55/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dedeepya55/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -234,6 +235,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dedeepya55/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/dedeepya55/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/dedeepya55/Leetcode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/dedeepya55/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dedeepya55/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/dedeepya55/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dedeepya55/Leetcode/tree/master/0189-rotate-array) |
@@ -382,6 +384,7 @@
 | [0096-unique-binary-search-trees](https://github.com/dedeepya55/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/dedeepya55/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dedeepya55/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/dedeepya55/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/dedeepya55/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dedeepya55/Leetcode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/dedeepya55/Leetcode/tree/master/0338-counting-bits) |
@@ -403,6 +406,7 @@
 | [0058-length-of-last-word](https://github.com/dedeepya55/Leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/dedeepya55/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/dedeepya55/Leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/dedeepya55/Leetcode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/dedeepya55/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dedeepya55/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/dedeepya55/Leetcode/tree/master/0242-valid-anagram) |
@@ -704,6 +708,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dedeepya55/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/dedeepya55/Leetcode/tree/master/0139-word-break) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/dedeepya55/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
@@ -755,6 +760,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dedeepya55/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/dedeepya55/Leetcode/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/dedeepya55/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Game Theory
 |  |
