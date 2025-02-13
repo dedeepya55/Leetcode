@@ -144,6 +144,7 @@
 | [0219-contains-duplicate-ii](https://github.com/dedeepya55/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/dedeepya55/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/dedeepya55/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/dedeepya55/Leetcode/tree/master/0383-ransom-note) |
 | [0480-sliding-window-median](https://github.com/dedeepya55/Leetcode/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/dedeepya55/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -413,6 +414,7 @@
 | [0171-excel-sheet-column-number](https://github.com/dedeepya55/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/dedeepya55/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/dedeepya55/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0383-ransom-note](https://github.com/dedeepya55/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dedeepya55/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/dedeepya55/Leetcode/tree/master/0567-permutation-in-string) |
@@ -454,6 +456,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/dedeepya55/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dedeepya55/Leetcode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/dedeepya55/Leetcode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1396-count-servers-that-communicate](https://github.com/dedeepya55/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/dedeepya55/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
