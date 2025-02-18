@@ -580,6 +580,7 @@
 | [0933-increasing-order-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/dedeepya55/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/dedeepya55/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dedeepya55/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/dedeepya55/Leetcode/tree/master/2384-root-equals-sum-of-children) |
@@ -610,6 +611,7 @@
 | [0933-increasing-order-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/dedeepya55/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/dedeepya55/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1396-count-servers-that-communicate](https://github.com/dedeepya55/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dedeepya55/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -646,6 +648,7 @@
 | [0933-increasing-order-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/dedeepya55/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/dedeepya55/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dedeepya55/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/dedeepya55/Leetcode/tree/master/2384-root-equals-sum-of-children) |
@@ -679,6 +682,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dedeepya55/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/dedeepya55/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/dedeepya55/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dedeepya55/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1876-map-of-highest-peak](https://github.com/dedeepya55/Leetcode/tree/master/1876-map-of-highest-peak) |
