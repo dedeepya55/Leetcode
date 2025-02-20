@@ -157,6 +157,7 @@
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dedeepya55/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1635-number-of-good-pairs](https://github.com/dedeepya55/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dedeepya55/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/dedeepya55/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dedeepya55/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/dedeepya55/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2406-decode-the-message](https://github.com/dedeepya55/Leetcode/tree/master/2406-decode-the-message) |
@@ -286,6 +287,7 @@
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/dedeepya55/Leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2048-build-array-from-permutation](https://github.com/dedeepya55/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/dedeepya55/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2107-find-unique-binary-string](https://github.com/dedeepya55/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/dedeepya55/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/dedeepya55/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dedeepya55/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -328,6 +330,7 @@
 | [0078-subsets](https://github.com/dedeepya55/Leetcode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/dedeepya55/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepya55/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2107-find-unique-binary-string](https://github.com/dedeepya55/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -434,6 +437,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dedeepya55/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dedeepya55/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dedeepya55/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2107-find-unique-binary-string](https://github.com/dedeepya55/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/dedeepya55/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/dedeepya55/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dedeepya55/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
