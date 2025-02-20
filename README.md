@@ -78,6 +78,7 @@
 | [0725-split-linked-list-in-parts](https://github.com/dedeepya55/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/dedeepya55/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dedeepya55/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dedeepya55/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dedeepya55/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -111,6 +112,7 @@
 | [0979-di-string-match](https://github.com/dedeepya55/Leetcode/tree/master/0979-di-string-match) |
 | [1894-merge-strings-alternately](https://github.com/dedeepya55/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/dedeepya55/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dedeepya55/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/dedeepya55/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/dedeepya55/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dedeepya55/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
