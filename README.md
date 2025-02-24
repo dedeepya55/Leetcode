@@ -61,6 +61,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/dedeepya55/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/dedeepya55/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dedeepya55/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/dedeepya55/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dedeepya55/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Linked List
 |  |
@@ -130,6 +131,7 @@
 | [0143-reorder-list](https://github.com/dedeepya55/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/dedeepya55/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/dedeepya55/Leetcode/tree/master/0390-elimination-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/dedeepya55/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dedeepya55/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/dedeepya55/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3226-minimum-number-game](https://github.com/dedeepya55/Leetcode/tree/master/3226-minimum-number-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/dedeepya55/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
@@ -359,6 +362,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dedeepya55/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dedeepya55/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dedeepya55/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/dedeepya55/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
 |  |
 | ------- |
