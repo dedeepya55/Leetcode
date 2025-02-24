@@ -58,6 +58,7 @@
 | [1635-number-of-good-pairs](https://github.com/dedeepya55/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/dedeepya55/Leetcode/tree/master/1642-water-bottles) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepya55/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/dedeepya55/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/dedeepya55/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dedeepya55/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dedeepya55/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -338,6 +339,7 @@
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dedeepya55/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepya55/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/dedeepya55/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/dedeepya55/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -365,6 +367,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepya55/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/dedeepya55/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2442-number-of-arithmetic-triplets](https://github.com/dedeepya55/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Matrix
 |  |
