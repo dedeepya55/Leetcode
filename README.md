@@ -354,6 +354,7 @@
 | [0338-counting-bits](https://github.com/dedeepya55/Leetcode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/dedeepya55/Leetcode/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/dedeepya55/Leetcode/tree/master/0861-flipping-an-image) |
+| [1054-complement-of-base-10-integer](https://github.com/dedeepya55/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dedeepya55/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dedeepya55/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1610-xor-operation-in-an-array](https://github.com/dedeepya55/Leetcode/tree/master/1610-xor-operation-in-an-array) |
