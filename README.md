@@ -174,6 +174,7 @@
 | [2502-sort-the-people](https://github.com/dedeepya55/Leetcode/tree/master/2502-sort-the-people) |
 | [2685-first-completely-painted-row-or-column](https://github.com/dedeepya55/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dedeepya55/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2832-find-the-longest-equal-subarray](https://github.com/dedeepya55/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dedeepya55/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/dedeepya55/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dedeepya55/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -327,6 +328,7 @@
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dedeepya55/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/dedeepya55/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dedeepya55/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2832-find-the-longest-equal-subarray](https://github.com/dedeepya55/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepya55/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dedeepya55/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dedeepya55/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -556,6 +558,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dedeepya55/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dedeepya55/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/dedeepya55/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2832-find-the-longest-equal-subarray](https://github.com/dedeepya55/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepya55/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
@@ -580,6 +583,7 @@
 | [0940-fruit-into-baskets](https://github.com/dedeepya55/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dedeepya55/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2211-k-radius-subarray-averages](https://github.com/dedeepya55/Leetcode/tree/master/2211-k-radius-subarray-averages) |
+| [2832-find-the-longest-equal-subarray](https://github.com/dedeepya55/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dedeepya55/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dedeepya55/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Tree
