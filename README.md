@@ -45,6 +45,7 @@
 | [0171-excel-sheet-column-number](https://github.com/dedeepya55/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/dedeepya55/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dedeepya55/Leetcode/tree/master/0202-happy-number) |
+| [0319-bulb-switcher](https://github.com/dedeepya55/Leetcode/tree/master/0319-bulb-switcher) |
 | [0390-elimination-game](https://github.com/dedeepya55/Leetcode/tree/master/0390-elimination-game) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dedeepya55/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0633-sum-of-square-numbers](https://github.com/dedeepya55/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -807,6 +808,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/dedeepya55/Leetcode/tree/master/0319-bulb-switcher) |
 | [1086-divisor-game](https://github.com/dedeepya55/Leetcode/tree/master/1086-divisor-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/dedeepya55/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Union Find
