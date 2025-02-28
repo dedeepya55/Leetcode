@@ -62,6 +62,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepya55/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dedeepya55/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3199-distribute-candies-among-children-i](https://github.com/dedeepya55/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
+| [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/dedeepya55/Leetcode/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/dedeepya55/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dedeepya55/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/dedeepya55/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -382,6 +383,7 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepya55/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3199-distribute-candies-among-children-i](https://github.com/dedeepya55/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
+| [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/dedeepya55/Leetcode/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dedeepya55/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
@@ -435,6 +437,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dedeepya55/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dedeepya55/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dedeepya55/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/dedeepya55/Leetcode/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 ## String
 |  |
 | ------- |
