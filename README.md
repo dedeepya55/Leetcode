@@ -38,6 +38,7 @@
 | [0013-roman-to-integer](https://github.com/dedeepya55/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/dedeepya55/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/dedeepya55/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/dedeepya55/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dedeepya55/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/dedeepya55/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dedeepya55/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -382,6 +383,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dedeepya55/Leetcode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepya55/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3199-distribute-candies-among-children-i](https://github.com/dedeepya55/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/dedeepya55/Leetcode/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
@@ -422,6 +424,7 @@
 | [0045-jump-game-ii](https://github.com/dedeepya55/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/dedeepya55/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dedeepya55/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/dedeepya55/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dedeepya55/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/dedeepya55/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/dedeepya55/Leetcode/tree/master/0118-pascals-triangle) |
