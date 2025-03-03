@@ -63,6 +63,7 @@
 | [1642-water-bottles](https://github.com/dedeepya55/Leetcode/tree/master/1642-water-bottles) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepya55/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dedeepya55/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/dedeepya55/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3199-distribute-candies-among-children-i](https://github.com/dedeepya55/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/dedeepya55/Leetcode/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3201-distribute-candies-among-children-ii](https://github.com/dedeepya55/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -543,6 +544,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/dedeepya55/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dedeepya55/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/dedeepya55/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/dedeepya55/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dedeepya55/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/dedeepya55/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/dedeepya55/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
