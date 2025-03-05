@@ -64,6 +64,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/dedeepya55/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepya55/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dedeepya55/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2649-count-total-number-of-colored-cells](https://github.com/dedeepya55/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/dedeepya55/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3199-distribute-candies-among-children-i](https://github.com/dedeepya55/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/dedeepya55/Leetcode/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
