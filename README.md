@@ -341,6 +341,7 @@
 | [2454-largest-local-values-in-a-matrix](https://github.com/dedeepya55/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2465-shifting-letters-ii](https://github.com/dedeepya55/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/dedeepya55/Leetcode/tree/master/2502-sort-the-people) |
+| [2530-minimize-maximum-of-array](https://github.com/dedeepya55/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/dedeepya55/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/dedeepya55/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2685-first-completely-painted-row-or-column](https://github.com/dedeepya55/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -461,6 +462,7 @@
 | [1250-longest-common-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dedeepya55/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dedeepya55/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2530-minimize-maximum-of-array](https://github.com/dedeepya55/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dedeepya55/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/dedeepya55/Leetcode/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 ## String
@@ -551,6 +553,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/dedeepya55/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dedeepya55/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/dedeepya55/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
+| [2530-minimize-maximum-of-array](https://github.com/dedeepya55/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/dedeepya55/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dedeepya55/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/dedeepya55/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -600,6 +603,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dedeepya55/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/dedeepya55/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dedeepya55/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2530-minimize-maximum-of-array](https://github.com/dedeepya55/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dedeepya55/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/dedeepya55/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2832-find-the-longest-equal-subarray](https://github.com/dedeepya55/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
@@ -815,6 +819,7 @@
 | [2145-grid-game](https://github.com/dedeepya55/Leetcode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/dedeepya55/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/dedeepya55/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2530-minimize-maximum-of-array](https://github.com/dedeepya55/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dedeepya55/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Trie
 |  |
