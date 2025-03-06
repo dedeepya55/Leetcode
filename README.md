@@ -209,6 +209,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dedeepya55/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/dedeepya55/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/dedeepya55/Leetcode/tree/master/0402-remove-k-digits) |
 | [0933-increasing-order-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/dedeepya55/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/dedeepya55/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -489,6 +490,7 @@
 | [0257-binary-tree-paths](https://github.com/dedeepya55/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/dedeepya55/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/dedeepya55/Leetcode/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dedeepya55/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/dedeepya55/Leetcode/tree/master/0567-permutation-in-string) |
@@ -553,6 +555,7 @@
 | [0134-gas-station](https://github.com/dedeepya55/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/dedeepya55/Leetcode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/dedeepya55/Leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/dedeepya55/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/dedeepya55/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/dedeepya55/Leetcode/tree/master/0605-can-place-flowers) |
@@ -919,6 +922,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dedeepya55/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/dedeepya55/Leetcode/tree/master/0402-remove-k-digits) |
 ## Queue
 |  |
 | ------- |
