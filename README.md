@@ -334,6 +334,7 @@
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/dedeepya55/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dedeepya55/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/dedeepya55/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/dedeepya55/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/dedeepya55/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2386-min-max-game](https://github.com/dedeepya55/Leetcode/tree/master/2386-min-max-game) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/dedeepya55/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
@@ -552,6 +553,7 @@
 | [0979-di-string-match](https://github.com/dedeepya55/Leetcode/tree/master/0979-di-string-match) |
 | [1502-construct-k-palindrome-strings](https://github.com/dedeepya55/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dedeepya55/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/dedeepya55/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/dedeepya55/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2530-minimize-maximum-of-array](https://github.com/dedeepya55/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/dedeepya55/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -798,6 +800,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dedeepya55/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/dedeepya55/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dedeepya55/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/dedeepya55/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/dedeepya55/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dedeepya55/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/dedeepya55/Leetcode/tree/master/3226-minimum-number-game) |
