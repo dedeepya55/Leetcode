@@ -136,6 +136,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/dedeepya55/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/dedeepya55/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/dedeepya55/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dedeepya55/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dedeepya55/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/dedeepya55/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -531,6 +532,7 @@
 | [2406-decode-the-message](https://github.com/dedeepya55/Leetcode/tree/master/2406-decode-the-message) |
 | [2465-shifting-letters-ii](https://github.com/dedeepya55/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/dedeepya55/Leetcode/tree/master/2502-sort-the-people) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dedeepya55/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/dedeepya55/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/dedeepya55/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -578,6 +580,7 @@
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/dedeepya55/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/dedeepya55/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2530-minimize-maximum-of-array](https://github.com/dedeepya55/Leetcode/tree/master/2530-minimize-maximum-of-array) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/dedeepya55/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dedeepya55/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/dedeepya55/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
