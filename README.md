@@ -271,6 +271,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/dedeepya55/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/dedeepya55/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dedeepya55/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/dedeepya55/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/dedeepya55/Leetcode/tree/master/0135-candy) |
@@ -461,6 +462,7 @@
 | [0070-climbing-stairs](https://github.com/dedeepya55/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/dedeepya55/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/dedeepya55/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/dedeepya55/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dedeepya55/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/dedeepya55/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/dedeepya55/Leetcode/tree/master/0198-house-robber) |
