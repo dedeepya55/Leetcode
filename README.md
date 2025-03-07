@@ -66,6 +66,7 @@
 | [2039-sum-game](https://github.com/dedeepya55/Leetcode/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/dedeepya55/Leetcode/tree/master/2156-stone-game-ix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dedeepya55/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2610-closest-prime-numbers-in-range](https://github.com/dedeepya55/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/dedeepya55/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/dedeepya55/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3199-distribute-candies-among-children-i](https://github.com/dedeepya55/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
@@ -934,5 +935,6 @@
 ## Number Theory
 |  |
 | ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/dedeepya55/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dedeepya55/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
