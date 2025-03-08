@@ -482,6 +482,7 @@
 | [1250-longest-common-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dedeepya55/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/dedeepya55/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/dedeepya55/Leetcode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/dedeepya55/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2530-minimize-maximum-of-array](https://github.com/dedeepya55/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dedeepya55/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -532,6 +533,7 @@
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/dedeepya55/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/dedeepya55/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dedeepya55/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/dedeepya55/Leetcode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/dedeepya55/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/dedeepya55/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2401-count-asterisks](https://github.com/dedeepya55/Leetcode/tree/master/2401-count-asterisks) |
@@ -585,6 +587,7 @@
 | [2039-sum-game](https://github.com/dedeepya55/Leetcode/tree/master/2039-sum-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dedeepya55/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2156-stone-game-ix](https://github.com/dedeepya55/Leetcode/tree/master/2156-stone-game-ix) |
+| [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/dedeepya55/Leetcode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/dedeepya55/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/dedeepya55/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2530-minimize-maximum-of-array](https://github.com/dedeepya55/Leetcode/tree/master/2530-minimize-maximum-of-array) |
