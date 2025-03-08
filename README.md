@@ -186,6 +186,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/dedeepya55/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dedeepya55/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1635-number-of-good-pairs](https://github.com/dedeepya55/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2055-describe-the-painting](https://github.com/dedeepya55/Leetcode/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dedeepya55/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/dedeepya55/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dedeepya55/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -337,6 +338,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dedeepya55/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/dedeepya55/Leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2048-build-array-from-permutation](https://github.com/dedeepya55/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2055-describe-the-painting](https://github.com/dedeepya55/Leetcode/tree/master/2055-describe-the-painting) |
 | [2058-concatenation-of-array](https://github.com/dedeepya55/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/dedeepya55/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/dedeepya55/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -620,6 +622,7 @@
 | [1539-diagonal-traverse-ii](https://github.com/dedeepya55/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dedeepya55/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/dedeepya55/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [2055-describe-the-painting](https://github.com/dedeepya55/Leetcode/tree/master/2055-describe-the-painting) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/dedeepya55/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dedeepya55/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dedeepya55/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -861,6 +864,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/dedeepya55/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dedeepya55/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dedeepya55/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2055-describe-the-painting](https://github.com/dedeepya55/Leetcode/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dedeepya55/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/dedeepya55/Leetcode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/dedeepya55/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
