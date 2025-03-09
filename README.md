@@ -385,6 +385,7 @@
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dedeepya55/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/dedeepya55/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dedeepya55/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3483-alternating-groups-ii](https://github.com/dedeepya55/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dedeepya55/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/dedeepya55/Leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dedeepya55/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -682,6 +683,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dedeepya55/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2832-find-the-longest-equal-subarray](https://github.com/dedeepya55/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dedeepya55/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3483-alternating-groups-ii](https://github.com/dedeepya55/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dedeepya55/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Tree
 |  |
