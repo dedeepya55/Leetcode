@@ -317,6 +317,7 @@
 | [0940-fruit-into-baskets](https://github.com/dedeepya55/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/dedeepya55/Leetcode/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/dedeepya55/Leetcode/tree/master/0979-di-string-match) |
+| [1036-rotting-oranges](https://github.com/dedeepya55/Leetcode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/dedeepya55/Leetcode/tree/master/1127-last-stone-weight) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dedeepya55/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/dedeepya55/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -447,6 +448,7 @@
 | [0289-game-of-life](https://github.com/dedeepya55/Leetcode/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0542-01-matrix) |
 | [0861-flipping-an-image](https://github.com/dedeepya55/Leetcode/tree/master/0861-flipping-an-image) |
+| [1036-rotting-oranges](https://github.com/dedeepya55/Leetcode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/dedeepya55/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1791-richest-customer-wealth](https://github.com/dedeepya55/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/dedeepya55/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -827,6 +829,7 @@
 | [0799-minimum-distance-between-bst-nodes](https://github.com/dedeepya55/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/dedeepya55/Leetcode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/dedeepya55/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dedeepya55/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1876-map-of-highest-peak](https://github.com/dedeepya55/Leetcode/tree/master/1876-map-of-highest-peak) |
