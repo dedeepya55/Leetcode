@@ -325,6 +325,7 @@
 | [1524-string-matching-in-an-array](https://github.com/dedeepya55/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/dedeepya55/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1539-diagonal-traverse-ii](https://github.com/dedeepya55/Leetcode/tree/master/1539-diagonal-traverse-ii) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dedeepya55/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dedeepya55/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/dedeepya55/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dedeepya55/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -687,6 +688,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/dedeepya55/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dedeepya55/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dedeepya55/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2211-k-radius-subarray-averages](https://github.com/dedeepya55/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dedeepya55/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2832-find-the-longest-equal-subarray](https://github.com/dedeepya55/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
@@ -859,6 +861,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/dedeepya55/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/dedeepya55/Leetcode/tree/master/1127-last-stone-weight) |
 | [1539-diagonal-traverse-ii](https://github.com/dedeepya55/Leetcode/tree/master/1539-diagonal-traverse-ii) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dedeepya55/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/dedeepya55/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/dedeepya55/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dedeepya55/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -941,6 +944,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/dedeepya55/Leetcode/tree/master/0493-reverse-pairs) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dedeepya55/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Quickselect
 |  |
 | ------- |
@@ -980,11 +984,13 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/dedeepya55/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dedeepya55/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/dedeepya55/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/dedeepya55/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dedeepya55/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Number Theory
 |  |
 | ------- |
