@@ -184,6 +184,7 @@
 | [0952-word-subsets](https://github.com/dedeepya55/Leetcode/tree/master/0952-word-subsets) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/dedeepya55/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dedeepya55/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/dedeepya55/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/dedeepya55/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dedeepya55/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1635-number-of-good-pairs](https://github.com/dedeepya55/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -531,6 +532,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/dedeepya55/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/dedeepya55/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/dedeepya55/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/dedeepya55/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dedeepya55/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/dedeepya55/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -688,6 +690,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/dedeepya55/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dedeepya55/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/dedeepya55/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dedeepya55/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2211-k-radius-subarray-averages](https://github.com/dedeepya55/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dedeepya55/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
