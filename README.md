@@ -124,6 +124,7 @@
 | [0283-move-zeroes](https://github.com/dedeepya55/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/dedeepya55/Leetcode/tree/master/0455-assign-cookies) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/dedeepya55/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/dedeepya55/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dedeepya55/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/dedeepya55/Leetcode/tree/master/0567-permutation-in-string) |
@@ -176,6 +177,7 @@
 | [0242-valid-anagram](https://github.com/dedeepya55/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/dedeepya55/Leetcode/tree/master/0383-ransom-note) |
 | [0480-sliding-window-median](https://github.com/dedeepya55/Leetcode/tree/master/0480-sliding-window-median) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/dedeepya55/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0567-permutation-in-string](https://github.com/dedeepya55/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/dedeepya55/Leetcode/tree/master/0621-task-scheduler) |
@@ -309,6 +311,7 @@
 | [0455-assign-cookies](https://github.com/dedeepya55/Leetcode/tree/master/0455-assign-cookies) |
 | [0480-sliding-window-median](https://github.com/dedeepya55/Leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/dedeepya55/Leetcode/tree/master/0493-reverse-pairs) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/dedeepya55/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0542-01-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/dedeepya55/Leetcode/tree/master/0605-can-place-flowers) |
@@ -527,6 +530,7 @@
 | [0402-remove-k-digits](https://github.com/dedeepya55/Leetcode/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/dedeepya55/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/dedeepya55/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dedeepya55/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/dedeepya55/Leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dedeepya55/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -639,6 +643,7 @@
 | [0274-h-index](https://github.com/dedeepya55/Leetcode/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/dedeepya55/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/dedeepya55/Leetcode/tree/master/0455-assign-cookies) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/dedeepya55/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/dedeepya55/Leetcode/tree/master/0621-task-scheduler) |
 | [1539-diagonal-traverse-ii](https://github.com/dedeepya55/Leetcode/tree/master/1539-diagonal-traverse-ii) |
