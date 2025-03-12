@@ -357,6 +357,7 @@
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/dedeepya55/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2055-describe-the-painting](https://github.com/dedeepya55/Leetcode/tree/master/2055-describe-the-painting) |
 | [2058-concatenation-of-array](https://github.com/dedeepya55/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2066-add-minimum-number-of-rungs](https://github.com/dedeepya55/Leetcode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2107-find-unique-binary-string](https://github.com/dedeepya55/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/dedeepya55/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/dedeepya55/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -622,6 +623,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/dedeepya55/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2039-sum-game](https://github.com/dedeepya55/Leetcode/tree/master/2039-sum-game) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/dedeepya55/Leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2066-add-minimum-number-of-rungs](https://github.com/dedeepya55/Leetcode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dedeepya55/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2156-stone-game-ix](https://github.com/dedeepya55/Leetcode/tree/master/2156-stone-game-ix) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/dedeepya55/Leetcode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
