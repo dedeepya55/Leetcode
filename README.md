@@ -412,6 +412,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dedeepya55/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/dedeepya55/Leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dedeepya55/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3643-zero-array-transformation-ii](https://github.com/dedeepya55/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/dedeepya55/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Backtracking
 |  |
@@ -708,6 +709,7 @@
 | [2832-find-the-longest-equal-subarray](https://github.com/dedeepya55/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepya55/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/dedeepya55/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3643-zero-array-transformation-ii](https://github.com/dedeepya55/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -934,6 +936,7 @@
 | [2530-minimize-maximum-of-array](https://github.com/dedeepya55/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2571-find-the-pivot-integer](https://github.com/dedeepya55/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dedeepya55/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3643-zero-array-transformation-ii](https://github.com/dedeepya55/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/dedeepya55/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Trie
 |  |
