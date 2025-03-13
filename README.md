@@ -67,6 +67,7 @@
 | [2039-sum-game](https://github.com/dedeepya55/Leetcode/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/dedeepya55/Leetcode/tree/master/2156-stone-game-ix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dedeepya55/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/dedeepya55/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2571-find-the-pivot-integer](https://github.com/dedeepya55/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/dedeepya55/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/dedeepya55/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -633,6 +634,7 @@
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/dedeepya55/Leetcode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/dedeepya55/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/dedeepya55/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/dedeepya55/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/dedeepya55/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/dedeepya55/Leetcode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2530-minimize-maximum-of-array](https://github.com/dedeepya55/Leetcode/tree/master/2530-minimize-maximum-of-array) |
@@ -673,6 +675,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dedeepya55/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dedeepya55/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/dedeepya55/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/dedeepya55/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2502-sort-the-people](https://github.com/dedeepya55/Leetcode/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/dedeepya55/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dedeepya55/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
