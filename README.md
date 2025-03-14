@@ -186,6 +186,7 @@
 | [0567-permutation-in-string](https://github.com/dedeepya55/Leetcode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/dedeepya55/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/dedeepya55/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/dedeepya55/Leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dedeepya55/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0720-longest-word-in-dictionary](https://github.com/dedeepya55/Leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -329,6 +330,7 @@
 | [0561-array-partition](https://github.com/dedeepya55/Leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/dedeepya55/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/dedeepya55/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/dedeepya55/Leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/dedeepya55/Leetcode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/dedeepya55/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -560,6 +562,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/dedeepya55/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/dedeepya55/Leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dedeepya55/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/dedeepya55/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0720-longest-word-in-dictionary](https://github.com/dedeepya55/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0782-jewels-and-stones](https://github.com/dedeepya55/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/dedeepya55/Leetcode/tree/master/0812-rotate-string) |
