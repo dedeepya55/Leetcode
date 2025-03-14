@@ -325,6 +325,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/dedeepya55/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/dedeepya55/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0542-01-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0542-01-matrix) |
+| [0561-array-partition](https://github.com/dedeepya55/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/dedeepya55/Leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/dedeepya55/Leetcode/tree/master/0621-task-scheduler) |
@@ -631,6 +632,7 @@
 | [0402-remove-k-digits](https://github.com/dedeepya55/Leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/dedeepya55/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/dedeepya55/Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/dedeepya55/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/dedeepya55/Leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/dedeepya55/Leetcode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/dedeepya55/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -675,6 +677,7 @@
 | [0455-assign-cookies](https://github.com/dedeepya55/Leetcode/tree/master/0455-assign-cookies) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/dedeepya55/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/dedeepya55/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0561-array-partition](https://github.com/dedeepya55/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/dedeepya55/Leetcode/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/dedeepya55/Leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -1030,6 +1033,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/dedeepya55/Leetcode/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/dedeepya55/Leetcode/tree/master/0561-array-partition) |
 ## Monotonic Stack
 |  |
 | ------- |
