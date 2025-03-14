@@ -181,6 +181,7 @@
 | [0383-ransom-note](https://github.com/dedeepya55/Leetcode/tree/master/0383-ransom-note) |
 | [0480-sliding-window-median](https://github.com/dedeepya55/Leetcode/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/dedeepya55/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/dedeepya55/Leetcode/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/dedeepya55/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0567-permutation-in-string](https://github.com/dedeepya55/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -320,6 +321,7 @@
 | [0493-reverse-pairs](https://github.com/dedeepya55/Leetcode/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/dedeepya55/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/dedeepya55/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/dedeepya55/Leetcode/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/dedeepya55/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/dedeepya55/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0542-01-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0542-01-matrix) |
@@ -547,6 +549,7 @@
 | [0383-ransom-note](https://github.com/dedeepya55/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/dedeepya55/Leetcode/tree/master/0402-remove-k-digits) |
+| [0500-keyboard-row](https://github.com/dedeepya55/Leetcode/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/dedeepya55/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/dedeepya55/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
