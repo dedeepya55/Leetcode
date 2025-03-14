@@ -241,6 +241,7 @@
 | [0054-spiral-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dedeepya55/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/dedeepya55/Leetcode/tree/master/0289-game-of-life) |
+| [0495-teemo-attacking](https://github.com/dedeepya55/Leetcode/tree/master/0495-teemo-attacking) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dedeepya55/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0861-flipping-an-image](https://github.com/dedeepya55/Leetcode/tree/master/0861-flipping-an-image) |
 | [1642-water-bottles](https://github.com/dedeepya55/Leetcode/tree/master/1642-water-bottles) |
@@ -315,6 +316,7 @@
 | [0455-assign-cookies](https://github.com/dedeepya55/Leetcode/tree/master/0455-assign-cookies) |
 | [0480-sliding-window-median](https://github.com/dedeepya55/Leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/dedeepya55/Leetcode/tree/master/0493-reverse-pairs) |
+| [0495-teemo-attacking](https://github.com/dedeepya55/Leetcode/tree/master/0495-teemo-attacking) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/dedeepya55/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/dedeepya55/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0542-01-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0542-01-matrix) |
