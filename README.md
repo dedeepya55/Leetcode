@@ -184,6 +184,7 @@
 | [0500-keyboard-row](https://github.com/dedeepya55/Leetcode/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/dedeepya55/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0567-permutation-in-string](https://github.com/dedeepya55/Leetcode/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/dedeepya55/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/dedeepya55/Leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dedeepya55/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -326,6 +327,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/dedeepya55/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0542-01-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/dedeepya55/Leetcode/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/dedeepya55/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/dedeepya55/Leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/dedeepya55/Leetcode/tree/master/0621-task-scheduler) |
