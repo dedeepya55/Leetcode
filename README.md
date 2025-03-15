@@ -36,6 +36,7 @@
 | [0002-add-two-numbers](https://github.com/dedeepya55/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/dedeepya55/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/dedeepya55/Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/dedeepya55/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/dedeepya55/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/dedeepya55/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/dedeepya55/Leetcode/tree/master/0062-unique-paths) |
@@ -444,6 +445,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/dedeepya55/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/dedeepya55/Leetcode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/dedeepya55/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/dedeepya55/Leetcode/tree/master/0338-counting-bits) |
