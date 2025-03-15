@@ -413,6 +413,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dedeepya55/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2832-find-the-longest-equal-subarray](https://github.com/dedeepya55/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepya55/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3080-split-array-into-maximum-number-of-subarrays](https://github.com/dedeepya55/Leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/dedeepya55/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dedeepya55/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/dedeepya55/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -459,6 +460,7 @@
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/dedeepya55/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/dedeepya55/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dedeepya55/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3080-split-array-into-maximum-number-of-subarrays](https://github.com/dedeepya55/Leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/dedeepya55/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/dedeepya55/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/dedeepya55/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -667,6 +669,7 @@
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dedeepya55/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/dedeepya55/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/dedeepya55/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3080-split-array-into-maximum-number-of-subarrays](https://github.com/dedeepya55/Leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/dedeepya55/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/dedeepya55/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dedeepya55/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
