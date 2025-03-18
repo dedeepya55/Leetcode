@@ -219,6 +219,7 @@
 | [2502-sort-the-people](https://github.com/dedeepya55/Leetcode/tree/master/2502-sort-the-people) |
 | [2685-first-completely-painted-row-or-column](https://github.com/dedeepya55/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dedeepya55/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2751-sliding-subarray-beauty](https://github.com/dedeepya55/Leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dedeepya55/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2832-find-the-longest-equal-subarray](https://github.com/dedeepya55/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/dedeepya55/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -427,6 +428,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dedeepya55/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/dedeepya55/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/dedeepya55/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2751-sliding-subarray-beauty](https://github.com/dedeepya55/Leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dedeepya55/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2832-find-the-longest-equal-subarray](https://github.com/dedeepya55/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepya55/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -800,6 +802,7 @@
 | [2211-k-radius-subarray-averages](https://github.com/dedeepya55/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dedeepya55/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/dedeepya55/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2751-sliding-subarray-beauty](https://github.com/dedeepya55/Leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2832-find-the-longest-equal-subarray](https://github.com/dedeepya55/Leetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dedeepya55/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-alternating-groups-ii](https://github.com/dedeepya55/Leetcode/tree/master/3483-alternating-groups-ii) |
