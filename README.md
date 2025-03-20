@@ -280,6 +280,7 @@
 | [3511-find-the-winning-player-in-coin-game](https://github.com/dedeepya55/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/dedeepya55/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dedeepya55/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/dedeepya55/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Array
 |  |
 | ------- |
@@ -457,6 +458,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dedeepya55/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/dedeepya55/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/dedeepya55/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3790-fruits-into-baskets-ii](https://github.com/dedeepya55/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -789,6 +791,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dedeepya55/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/dedeepya55/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3643-zero-array-transformation-ii](https://github.com/dedeepya55/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/dedeepya55/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1072,6 +1075,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/dedeepya55/Leetcode/tree/master/0493-reverse-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/dedeepya55/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
