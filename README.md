@@ -213,6 +213,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dedeepya55/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/dedeepya55/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dedeepya55/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dedeepya55/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/dedeepya55/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dedeepya55/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2406-decode-the-message](https://github.com/dedeepya55/Leetcode/tree/master/2406-decode-the-message) |
@@ -410,6 +411,7 @@
 | [2199-two-furthest-houses-with-different-colors](https://github.com/dedeepya55/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dedeepya55/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2211-k-radius-subarray-averages](https://github.com/dedeepya55/Leetcode/tree/master/2211-k-radius-subarray-averages) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dedeepya55/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/dedeepya55/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/dedeepya55/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/dedeepya55/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -636,6 +638,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/dedeepya55/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dedeepya55/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/dedeepya55/Leetcode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dedeepya55/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/dedeepya55/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/dedeepya55/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2401-count-asterisks](https://github.com/dedeepya55/Leetcode/tree/master/2401-count-asterisks) |
@@ -1156,4 +1159,12 @@
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/dedeepya55/Leetcode/tree/master/1028-interval-list-intersections) |
+## Graph
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dedeepya55/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/dedeepya55/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
