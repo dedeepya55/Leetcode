@@ -370,6 +370,7 @@
 | [1028-interval-list-intersections](https://github.com/dedeepya55/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/dedeepya55/Leetcode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/dedeepya55/Leetcode/tree/master/1127-last-stone-weight) |
+| [1138-grumpy-bookstore-owner](https://github.com/dedeepya55/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dedeepya55/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dedeepya55/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/dedeepya55/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -829,6 +830,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/dedeepya55/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/dedeepya55/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1138-grumpy-bookstore-owner](https://github.com/dedeepya55/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dedeepya55/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dedeepya55/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/dedeepya55/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
