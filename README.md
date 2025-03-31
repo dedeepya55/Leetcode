@@ -50,6 +50,7 @@
 | [0319-bulb-switcher](https://github.com/dedeepya55/Leetcode/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/dedeepya55/Leetcode/tree/master/0343-integer-break) |
 | [0390-elimination-game](https://github.com/dedeepya55/Leetcode/tree/master/0390-elimination-game) |
+| [0447-number-of-boomerangs](https://github.com/dedeepya55/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dedeepya55/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dedeepya55/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/dedeepya55/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -189,6 +190,7 @@
 | [0229-majority-element-ii](https://github.com/dedeepya55/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/dedeepya55/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/dedeepya55/Leetcode/tree/master/0383-ransom-note) |
+| [0447-number-of-boomerangs](https://github.com/dedeepya55/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0480-sliding-window-median](https://github.com/dedeepya55/Leetcode/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/dedeepya55/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/dedeepya55/Leetcode/tree/master/0500-keyboard-row) |
@@ -338,6 +340,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0403-frog-jump](https://github.com/dedeepya55/Leetcode/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/dedeepya55/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0447-number-of-boomerangs](https://github.com/dedeepya55/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0455-assign-cookies](https://github.com/dedeepya55/Leetcode/tree/master/0455-assign-cookies) |
 | [0480-sliding-window-median](https://github.com/dedeepya55/Leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/dedeepya55/Leetcode/tree/master/0493-reverse-pairs) |
