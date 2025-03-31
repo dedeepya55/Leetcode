@@ -48,6 +48,7 @@
 | [0189-rotate-array](https://github.com/dedeepya55/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dedeepya55/Leetcode/tree/master/0202-happy-number) |
 | [0319-bulb-switcher](https://github.com/dedeepya55/Leetcode/tree/master/0319-bulb-switcher) |
+| [0343-integer-break](https://github.com/dedeepya55/Leetcode/tree/master/0343-integer-break) |
 | [0390-elimination-game](https://github.com/dedeepya55/Leetcode/tree/master/0390-elimination-game) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dedeepya55/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dedeepya55/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -568,6 +569,7 @@
 | [0322-coin-change](https://github.com/dedeepya55/Leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/dedeepya55/Leetcode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/dedeepya55/Leetcode/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/dedeepya55/Leetcode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/dedeepya55/Leetcode/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/dedeepya55/Leetcode/tree/master/0435-non-overlapping-intervals) |
