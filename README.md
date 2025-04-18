@@ -54,6 +54,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/dedeepya55/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dedeepya55/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/dedeepya55/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0755-reach-a-number](https://github.com/dedeepya55/Leetcode/tree/master/0755-reach-a-number) |
 | [0828-chalkboard-xor-game](https://github.com/dedeepya55/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0910-nth-magical-number](https://github.com/dedeepya55/Leetcode/tree/master/0910-nth-magical-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/dedeepya55/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -797,6 +798,7 @@
 | [0493-reverse-pairs](https://github.com/dedeepya55/Leetcode/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/dedeepya55/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/dedeepya55/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0755-reach-a-number](https://github.com/dedeepya55/Leetcode/tree/master/0755-reach-a-number) |
 | [0907-koko-eating-bananas](https://github.com/dedeepya55/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0910-nth-magical-number](https://github.com/dedeepya55/Leetcode/tree/master/0910-nth-magical-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dedeepya55/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
