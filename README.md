@@ -363,6 +363,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/dedeepya55/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0720-longest-word-in-dictionary](https://github.com/dedeepya55/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0747-min-cost-climbing-stairs](https://github.com/dedeepya55/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0824-number-of-lines-to-write-string](https://github.com/dedeepya55/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/dedeepya55/Leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0828-chalkboard-xor-game](https://github.com/dedeepya55/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0861-flipping-an-image](https://github.com/dedeepya55/Leetcode/tree/master/0861-flipping-an-image) |
@@ -628,6 +629,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/dedeepya55/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0782-jewels-and-stones](https://github.com/dedeepya55/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/dedeepya55/Leetcode/tree/master/0812-rotate-string) |
+| [0824-number-of-lines-to-write-string](https://github.com/dedeepya55/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0952-word-subsets](https://github.com/dedeepya55/Leetcode/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/dedeepya55/Leetcode/tree/master/0979-di-string-match) |
 | [1026-string-without-aaa-or-bbb](https://github.com/dedeepya55/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
