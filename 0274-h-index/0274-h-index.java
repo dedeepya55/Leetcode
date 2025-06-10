@@ -1,27 +1,19 @@
-import java.util.Arrays;
-
 class Solution {
     public int hIndex(int[] citations) {
-        if (citations.length == 1) {
-            return citations[0] >= 1 ? 1 : 0;
-        }
-        
-        Arrays.sort(citations);
-        int left = 0, right = citations.length - 1;
-        int max = 0;
+        int[] counts = new int[citations.length+2];
 
-        while (left <= right) {
-            int mid = (left + right) / 2;
-            int o = citations.length - mid; 
-            
-            if (citations[mid] >= o) {
-                max = o;  
-                right = mid - 1;  
-            } else {
-                left = mid + 1;
-            }
+        for(int i=citations.length-1;i>=0;i--){
+            counts[Math.min(citations[i],citations.length)]++;
         }
+        // for(int i=0;i<counts.length;i++){
+        //     System.out.println(counts[i]);
+        // }
+        int i;
+        for(i=citations.length;i>0;i--){
+            counts[i]+=counts[i+1];
+            if(counts[i]>=i) break;
 
-        return max;
+        }
+        return i;
     }
 }
