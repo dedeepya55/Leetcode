@@ -89,6 +89,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/dedeepya55/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dedeepya55/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dedeepya55/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/dedeepya55/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -241,6 +242,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dedeepya55/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dedeepya55/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dedeepya55/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/dedeepya55/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -477,6 +479,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/dedeepya55/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/dedeepya55/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3790-fruits-into-baskets-ii](https://github.com/dedeepya55/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/dedeepya55/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -698,6 +701,7 @@
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/dedeepya55/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/dedeepya55/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/dedeepya55/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/dedeepya55/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -1192,6 +1196,7 @@
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/dedeepya55/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dedeepya55/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/dedeepya55/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Line Sweep
 |  |
 | ------- |
