@@ -342,6 +342,7 @@
 | [0239-sliding-window-maximum](https://github.com/dedeepya55/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/dedeepya55/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/dedeepya55/Leetcode/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/dedeepya55/Leetcode/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/dedeepya55/Leetcode/tree/master/0289-game-of-life) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/dedeepya55/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/dedeepya55/Leetcode/tree/master/0322-coin-change) |
@@ -1038,6 +1039,7 @@
 ## Design
 |  |
 | ------- |
+| [0284-peeking-iterator](https://github.com/dedeepya55/Leetcode/tree/master/0284-peeking-iterator) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dedeepya55/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -1222,4 +1224,8 @@
 | [1203-print-in-order](https://github.com/dedeepya55/Leetcode/tree/master/1203-print-in-order) |
 | [1316-fizz-buzz-multithreaded](https://github.com/dedeepya55/Leetcode/tree/master/1316-fizz-buzz-multithreaded) |
 | [1340-the-dining-philosophers](https://github.com/dedeepya55/Leetcode/tree/master/1340-the-dining-philosophers) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/dedeepya55/Leetcode/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
