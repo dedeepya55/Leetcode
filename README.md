@@ -507,6 +507,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/dedeepya55/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/dedeepya55/Leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/dedeepya55/Leetcode/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/dedeepya55/Leetcode/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/dedeepya55/Leetcode/tree/master/0476-number-complement) |
 | [0828-chalkboard-xor-game](https://github.com/dedeepya55/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0861-flipping-an-image](https://github.com/dedeepya55/Leetcode/tree/master/0861-flipping-an-image) |
@@ -595,6 +596,7 @@
 | [0338-counting-bits](https://github.com/dedeepya55/Leetcode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/dedeepya55/Leetcode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/dedeepya55/Leetcode/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/dedeepya55/Leetcode/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/dedeepya55/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -726,6 +728,7 @@
 | [0135-candy](https://github.com/dedeepya55/Leetcode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/dedeepya55/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/dedeepya55/Leetcode/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/dedeepya55/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/dedeepya55/Leetcode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/dedeepya55/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -1166,6 +1169,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/dedeepya55/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/dedeepya55/Leetcode/tree/master/0139-word-break) |
+| [0397-integer-replacement](https://github.com/dedeepya55/Leetcode/tree/master/0397-integer-replacement) |
 | [1236-n-th-tribonacci-number](https://github.com/dedeepya55/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Game Theory
 |  |
