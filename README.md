@@ -217,6 +217,7 @@
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/dedeepya55/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dedeepya55/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/dedeepya55/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/dedeepya55/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dedeepya55/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1635-number-of-good-pairs](https://github.com/dedeepya55/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2055-describe-the-painting](https://github.com/dedeepya55/Leetcode/tree/master/2055-describe-the-painting) |
@@ -394,6 +395,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/dedeepya55/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/dedeepya55/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/dedeepya55/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/dedeepya55/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/dedeepya55/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/dedeepya55/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/dedeepya55/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -712,6 +714,7 @@
 | [0621-task-scheduler](https://github.com/dedeepya55/Leetcode/tree/master/0621-task-scheduler) |
 | [1396-count-servers-that-communicate](https://github.com/dedeepya55/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/dedeepya55/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/dedeepya55/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/dedeepya55/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2156-stone-game-ix](https://github.com/dedeepya55/Leetcode/tree/master/2156-stone-game-ix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dedeepya55/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
