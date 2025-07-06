@@ -221,6 +221,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/dedeepya55/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dedeepya55/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1635-number-of-good-pairs](https://github.com/dedeepya55/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/dedeepya55/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2055-describe-the-painting](https://github.com/dedeepya55/Leetcode/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dedeepya55/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/dedeepya55/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -420,6 +421,7 @@
 | [1876-map-of-highest-peak](https://github.com/dedeepya55/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dedeepya55/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dedeepya55/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/dedeepya55/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dedeepya55/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/dedeepya55/Leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2048-build-array-from-permutation](https://github.com/dedeepya55/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -1069,6 +1071,7 @@
 | ------- |
 | [0284-peeking-iterator](https://github.com/dedeepya55/Leetcode/tree/master/0284-peeking-iterator) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dedeepya55/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/dedeepya55/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
