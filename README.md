@@ -280,6 +280,7 @@
 | [0495-teemo-attacking](https://github.com/dedeepya55/Leetcode/tree/master/0495-teemo-attacking) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dedeepya55/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0861-flipping-an-image](https://github.com/dedeepya55/Leetcode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/dedeepya55/Leetcode/tree/master/1642-water-bottles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/dedeepya55/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/dedeepya55/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -384,6 +385,7 @@
 | [0828-chalkboard-xor-game](https://github.com/dedeepya55/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0861-flipping-an-image](https://github.com/dedeepya55/Leetcode/tree/master/0861-flipping-an-image) |
 | [0891-score-after-flipping-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0891-score-after-flipping-matrix) |
+| [0898-transpose-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/dedeepya55/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/dedeepya55/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/dedeepya55/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -569,6 +571,7 @@
 | [0825-max-increase-to-keep-city-skyline](https://github.com/dedeepya55/Leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0861-flipping-an-image](https://github.com/dedeepya55/Leetcode/tree/master/0861-flipping-an-image) |
 | [0891-score-after-flipping-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0891-score-after-flipping-matrix) |
+| [0898-transpose-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/dedeepya55/Leetcode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/dedeepya55/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1791-richest-customer-wealth](https://github.com/dedeepya55/Leetcode/tree/master/1791-richest-customer-wealth) |
