@@ -49,6 +49,7 @@
 | [0202-happy-number](https://github.com/dedeepya55/Leetcode/tree/master/0202-happy-number) |
 | [0319-bulb-switcher](https://github.com/dedeepya55/Leetcode/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/dedeepya55/Leetcode/tree/master/0343-integer-break) |
+| [0365-water-and-jug-problem](https://github.com/dedeepya55/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0390-elimination-game](https://github.com/dedeepya55/Leetcode/tree/master/0390-elimination-game) |
 | [0447-number-of-boomerangs](https://github.com/dedeepya55/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dedeepya55/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -971,6 +972,7 @@
 | [0226-invert-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/dedeepya55/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/dedeepya55/Leetcode/tree/master/0337-house-robber-iii) |
+| [0365-water-and-jug-problem](https://github.com/dedeepya55/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/dedeepya55/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/dedeepya55/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/dedeepya55/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -1062,6 +1064,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/dedeepya55/Leetcode/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/dedeepya55/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/dedeepya55/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/dedeepya55/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dedeepya55/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
