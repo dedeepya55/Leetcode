@@ -497,6 +497,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dedeepya55/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/dedeepya55/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/dedeepya55/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/dedeepya55/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/dedeepya55/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/dedeepya55/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Backtracking
@@ -790,6 +791,7 @@
 | [3081-minimum-array-length-after-pair-removals](https://github.com/dedeepya55/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/dedeepya55/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dedeepya55/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/dedeepya55/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
 | ------- |
@@ -909,6 +911,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/dedeepya55/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dedeepya55/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/dedeepya55/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/dedeepya55/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Tree
 |  |
 | ------- |
