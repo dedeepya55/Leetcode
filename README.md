@@ -341,6 +341,7 @@
 | [0169-majority-element](https://github.com/dedeepya55/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dedeepya55/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dedeepya55/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/dedeepya55/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/dedeepya55/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/dedeepya55/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/dedeepya55/Leetcode/tree/master/0217-contains-duplicate) |
@@ -569,6 +570,7 @@
 | [0059-spiral-matrix-ii](https://github.com/dedeepya55/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/dedeepya55/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/dedeepya55/Leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/dedeepya55/Leetcode/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/dedeepya55/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/dedeepya55/Leetcode/tree/master/0733-flood-fill) |
@@ -969,6 +971,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/dedeepya55/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/dedeepya55/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/dedeepya55/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/dedeepya55/Leetcode/tree/master/0337-house-robber-iii) |
@@ -1062,6 +1065,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dedeepya55/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/dedeepya55/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/dedeepya55/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/dedeepya55/Leetcode/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/dedeepya55/Leetcode/tree/master/0365-water-and-jug-problem) |
@@ -1174,6 +1178,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dedeepya55/Leetcode/tree/master/0200-number-of-islands) |
 | [1308-smallest-string-with-swaps](https://github.com/dedeepya55/Leetcode/tree/master/1308-smallest-string-with-swaps) |
 | [1396-count-servers-that-communicate](https://github.com/dedeepya55/Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Binary Indexed Tree
